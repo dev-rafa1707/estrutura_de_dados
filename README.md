@@ -5,11 +5,11 @@ Arquivos para Estrutura de Dados: Fila, Pilha e Lista.
 Use the package manager pip to install estrutura_de_dados
 pip install estrutura_de_dados
 
-#Usage
+# Usage
 from estrutura_de_dados import fila
 from estrutura_de_dados import pilha
 from estrutura_de_dados import lista
 
-#Author
+# Author
 Rafael Pacheco
 dev-rafa1707
