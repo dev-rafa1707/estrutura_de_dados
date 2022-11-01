@@ -1,2 +1,2 @@
-# estrutura_de_dad0s
+# estrutura_de_dados
 Estrutura de Dados
